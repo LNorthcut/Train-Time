@@ -1,5 +1,4 @@
-  var config = {
-    
+var config = {
     apiKey: "AIzaSyCwBI5f-ZBgoW1YtytqMTKMjQWJgLwtQaM",
     authDomain: "train-time-28e10.firebaseapp.com",
     databaseURL: "https://train-time-28e10.firebaseio.com",
@@ -7,7 +6,6 @@
     storageBucket: "train-time-28e10.appspot.com",
     messagingSenderId: "435701617491"
   };
-
   firebase.initializeApp(config);
 
 
